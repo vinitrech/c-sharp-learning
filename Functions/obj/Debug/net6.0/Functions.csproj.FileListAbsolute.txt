@@ -1,0 +1,15 @@
+/home/vinitrech/Projects/c-sharp-learning/Functions/bin/Debug/net6.0/Functions
+/home/vinitrech/Projects/c-sharp-learning/Functions/bin/Debug/net6.0/Functions.deps.json
+/home/vinitrech/Projects/c-sharp-learning/Functions/bin/Debug/net6.0/Functions.runtimeconfig.json
+/home/vinitrech/Projects/c-sharp-learning/Functions/bin/Debug/net6.0/Functions.dll
+/home/vinitrech/Projects/c-sharp-learning/Functions/bin/Debug/net6.0/ref/Functions.dll
+/home/vinitrech/Projects/c-sharp-learning/Functions/bin/Debug/net6.0/Functions.pdb
+/home/vinitrech/Projects/c-sharp-learning/Functions/obj/Debug/net6.0/Functions.csproj.AssemblyReference.cache
+/home/vinitrech/Projects/c-sharp-learning/Functions/obj/Debug/net6.0/Functions.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinitrech/Projects/c-sharp-learning/Functions/obj/Debug/net6.0/Functions.AssemblyInfoInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/Functions/obj/Debug/net6.0/Functions.AssemblyInfo.cs
+/home/vinitrech/Projects/c-sharp-learning/Functions/obj/Debug/net6.0/Functions.csproj.CoreCompileInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/Functions/obj/Debug/net6.0/Functions.dll
+/home/vinitrech/Projects/c-sharp-learning/Functions/obj/Debug/net6.0/ref/Functions.dll
+/home/vinitrech/Projects/c-sharp-learning/Functions/obj/Debug/net6.0/Functions.pdb
+/home/vinitrech/Projects/c-sharp-learning/Functions/obj/Debug/net6.0/Functions.genruntimeconfig.cache

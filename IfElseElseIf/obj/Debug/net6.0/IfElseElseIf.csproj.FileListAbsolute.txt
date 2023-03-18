@@ -1,0 +1,15 @@
+/home/vinitrech/Projects/c-sharp-learning/IfElseElseIf/bin/Debug/net6.0/IfElseElseIf
+/home/vinitrech/Projects/c-sharp-learning/IfElseElseIf/bin/Debug/net6.0/IfElseElseIf.deps.json
+/home/vinitrech/Projects/c-sharp-learning/IfElseElseIf/bin/Debug/net6.0/IfElseElseIf.runtimeconfig.json
+/home/vinitrech/Projects/c-sharp-learning/IfElseElseIf/bin/Debug/net6.0/IfElseElseIf.dll
+/home/vinitrech/Projects/c-sharp-learning/IfElseElseIf/bin/Debug/net6.0/ref/IfElseElseIf.dll
+/home/vinitrech/Projects/c-sharp-learning/IfElseElseIf/bin/Debug/net6.0/IfElseElseIf.pdb
+/home/vinitrech/Projects/c-sharp-learning/IfElseElseIf/obj/Debug/net6.0/IfElseElseIf.csproj.AssemblyReference.cache
+/home/vinitrech/Projects/c-sharp-learning/IfElseElseIf/obj/Debug/net6.0/IfElseElseIf.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinitrech/Projects/c-sharp-learning/IfElseElseIf/obj/Debug/net6.0/IfElseElseIf.AssemblyInfoInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/IfElseElseIf/obj/Debug/net6.0/IfElseElseIf.AssemblyInfo.cs
+/home/vinitrech/Projects/c-sharp-learning/IfElseElseIf/obj/Debug/net6.0/IfElseElseIf.csproj.CoreCompileInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/IfElseElseIf/obj/Debug/net6.0/IfElseElseIf.dll
+/home/vinitrech/Projects/c-sharp-learning/IfElseElseIf/obj/Debug/net6.0/ref/IfElseElseIf.dll
+/home/vinitrech/Projects/c-sharp-learning/IfElseElseIf/obj/Debug/net6.0/IfElseElseIf.pdb
+/home/vinitrech/Projects/c-sharp-learning/IfElseElseIf/obj/Debug/net6.0/IfElseElseIf.genruntimeconfig.cache

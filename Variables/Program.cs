@@ -6,6 +6,12 @@ namespace Variables
     {
         static void Main(string[] args)
         {
+            // Relational operators: > < >= <= == !=
+            // Logical operators: && || !
+            // Arithmetic operators: + - * / == -- % 
+            // Bitwise operators: ~ << >> >>> & ^ |
+            // All arithmetic and bitwise operators support compound assignment
+
             bool canIVote = true;
             int intValue = 0; // 32 bit
             long longValue = 0; // 64 bit

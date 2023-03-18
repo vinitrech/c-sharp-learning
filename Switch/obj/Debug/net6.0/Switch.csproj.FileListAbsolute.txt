@@ -1,0 +1,15 @@
+/home/vinitrech/Projects/c-sharp-learning/Switch/obj/Debug/net6.0/Switch.csproj.AssemblyReference.cache
+/home/vinitrech/Projects/c-sharp-learning/Switch/obj/Debug/net6.0/Switch.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinitrech/Projects/c-sharp-learning/Switch/obj/Debug/net6.0/Switch.AssemblyInfoInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/Switch/obj/Debug/net6.0/Switch.AssemblyInfo.cs
+/home/vinitrech/Projects/c-sharp-learning/Switch/obj/Debug/net6.0/Switch.csproj.CoreCompileInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/Switch/bin/Debug/net6.0/Switch
+/home/vinitrech/Projects/c-sharp-learning/Switch/bin/Debug/net6.0/Switch.deps.json
+/home/vinitrech/Projects/c-sharp-learning/Switch/bin/Debug/net6.0/Switch.runtimeconfig.json
+/home/vinitrech/Projects/c-sharp-learning/Switch/bin/Debug/net6.0/Switch.dll
+/home/vinitrech/Projects/c-sharp-learning/Switch/bin/Debug/net6.0/ref/Switch.dll
+/home/vinitrech/Projects/c-sharp-learning/Switch/bin/Debug/net6.0/Switch.pdb
+/home/vinitrech/Projects/c-sharp-learning/Switch/obj/Debug/net6.0/Switch.dll
+/home/vinitrech/Projects/c-sharp-learning/Switch/obj/Debug/net6.0/ref/Switch.dll
+/home/vinitrech/Projects/c-sharp-learning/Switch/obj/Debug/net6.0/Switch.pdb
+/home/vinitrech/Projects/c-sharp-learning/Switch/obj/Debug/net6.0/Switch.genruntimeconfig.cache

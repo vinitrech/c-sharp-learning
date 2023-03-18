@@ -1,0 +1,15 @@
+/home/vinitrech/Projects/c-sharp-learning/ForLoop/bin/Debug/net6.0/ForLoop
+/home/vinitrech/Projects/c-sharp-learning/ForLoop/bin/Debug/net6.0/ForLoop.deps.json
+/home/vinitrech/Projects/c-sharp-learning/ForLoop/bin/Debug/net6.0/ForLoop.runtimeconfig.json
+/home/vinitrech/Projects/c-sharp-learning/ForLoop/bin/Debug/net6.0/ForLoop.dll
+/home/vinitrech/Projects/c-sharp-learning/ForLoop/bin/Debug/net6.0/ref/ForLoop.dll
+/home/vinitrech/Projects/c-sharp-learning/ForLoop/bin/Debug/net6.0/ForLoop.pdb
+/home/vinitrech/Projects/c-sharp-learning/ForLoop/obj/Debug/net6.0/ForLoop.csproj.AssemblyReference.cache
+/home/vinitrech/Projects/c-sharp-learning/ForLoop/obj/Debug/net6.0/ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinitrech/Projects/c-sharp-learning/ForLoop/obj/Debug/net6.0/ForLoop.AssemblyInfoInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/ForLoop/obj/Debug/net6.0/ForLoop.AssemblyInfo.cs
+/home/vinitrech/Projects/c-sharp-learning/ForLoop/obj/Debug/net6.0/ForLoop.csproj.CoreCompileInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/ForLoop/obj/Debug/net6.0/ForLoop.dll
+/home/vinitrech/Projects/c-sharp-learning/ForLoop/obj/Debug/net6.0/ref/ForLoop.dll
+/home/vinitrech/Projects/c-sharp-learning/ForLoop/obj/Debug/net6.0/ForLoop.pdb
+/home/vinitrech/Projects/c-sharp-learning/ForLoop/obj/Debug/net6.0/ForLoop.genruntimeconfig.cache
