@@ -1,0 +1,15 @@
+/home/vinitrech/Projects/c-sharp-learning/StringBuilder/bin/Debug/net6.0/StringBuilder
+/home/vinitrech/Projects/c-sharp-learning/StringBuilder/bin/Debug/net6.0/StringBuilder.deps.json
+/home/vinitrech/Projects/c-sharp-learning/StringBuilder/bin/Debug/net6.0/StringBuilder.runtimeconfig.json
+/home/vinitrech/Projects/c-sharp-learning/StringBuilder/bin/Debug/net6.0/StringBuilder.dll
+/home/vinitrech/Projects/c-sharp-learning/StringBuilder/bin/Debug/net6.0/ref/StringBuilder.dll
+/home/vinitrech/Projects/c-sharp-learning/StringBuilder/bin/Debug/net6.0/StringBuilder.pdb
+/home/vinitrech/Projects/c-sharp-learning/StringBuilder/obj/Debug/net6.0/StringBuilder.csproj.AssemblyReference.cache
+/home/vinitrech/Projects/c-sharp-learning/StringBuilder/obj/Debug/net6.0/StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinitrech/Projects/c-sharp-learning/StringBuilder/obj/Debug/net6.0/StringBuilder.AssemblyInfoInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/StringBuilder/obj/Debug/net6.0/StringBuilder.AssemblyInfo.cs
+/home/vinitrech/Projects/c-sharp-learning/StringBuilder/obj/Debug/net6.0/StringBuilder.csproj.CoreCompileInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/StringBuilder/obj/Debug/net6.0/StringBuilder.dll
+/home/vinitrech/Projects/c-sharp-learning/StringBuilder/obj/Debug/net6.0/ref/StringBuilder.dll
+/home/vinitrech/Projects/c-sharp-learning/StringBuilder/obj/Debug/net6.0/StringBuilder.pdb
+/home/vinitrech/Projects/c-sharp-learning/StringBuilder/obj/Debug/net6.0/StringBuilder.genruntimeconfig.cache

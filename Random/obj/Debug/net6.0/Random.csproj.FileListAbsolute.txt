@@ -1,0 +1,15 @@
+/home/vinitrech/Projects/c-sharp-learning/Random/obj/Debug/net6.0/Random.csproj.AssemblyReference.cache
+/home/vinitrech/Projects/c-sharp-learning/Random/obj/Debug/net6.0/Random.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinitrech/Projects/c-sharp-learning/Random/obj/Debug/net6.0/Random.AssemblyInfoInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/Random/obj/Debug/net6.0/Random.AssemblyInfo.cs
+/home/vinitrech/Projects/c-sharp-learning/Random/obj/Debug/net6.0/Random.csproj.CoreCompileInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/Random/bin/Debug/net6.0/Random
+/home/vinitrech/Projects/c-sharp-learning/Random/bin/Debug/net6.0/Random.deps.json
+/home/vinitrech/Projects/c-sharp-learning/Random/bin/Debug/net6.0/Random.runtimeconfig.json
+/home/vinitrech/Projects/c-sharp-learning/Random/bin/Debug/net6.0/Random.dll
+/home/vinitrech/Projects/c-sharp-learning/Random/bin/Debug/net6.0/ref/Random.dll
+/home/vinitrech/Projects/c-sharp-learning/Random/bin/Debug/net6.0/Random.pdb
+/home/vinitrech/Projects/c-sharp-learning/Random/obj/Debug/net6.0/Random.dll
+/home/vinitrech/Projects/c-sharp-learning/Random/obj/Debug/net6.0/ref/Random.dll
+/home/vinitrech/Projects/c-sharp-learning/Random/obj/Debug/net6.0/Random.pdb
+/home/vinitrech/Projects/c-sharp-learning/Random/obj/Debug/net6.0/Random.genruntimeconfig.cache

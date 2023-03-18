@@ -1,0 +1,15 @@
+/home/vinitrech/Projects/c-sharp-learning/WhileDoWhile/obj/Debug/net6.0/WhileDoWhile.csproj.AssemblyReference.cache
+/home/vinitrech/Projects/c-sharp-learning/WhileDoWhile/obj/Debug/net6.0/WhileDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinitrech/Projects/c-sharp-learning/WhileDoWhile/obj/Debug/net6.0/WhileDoWhile.AssemblyInfoInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/WhileDoWhile/obj/Debug/net6.0/WhileDoWhile.AssemblyInfo.cs
+/home/vinitrech/Projects/c-sharp-learning/WhileDoWhile/obj/Debug/net6.0/WhileDoWhile.csproj.CoreCompileInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/WhileDoWhile/bin/Debug/net6.0/WhileDoWhile
+/home/vinitrech/Projects/c-sharp-learning/WhileDoWhile/bin/Debug/net6.0/WhileDoWhile.deps.json
+/home/vinitrech/Projects/c-sharp-learning/WhileDoWhile/bin/Debug/net6.0/WhileDoWhile.runtimeconfig.json
+/home/vinitrech/Projects/c-sharp-learning/WhileDoWhile/bin/Debug/net6.0/WhileDoWhile.dll
+/home/vinitrech/Projects/c-sharp-learning/WhileDoWhile/bin/Debug/net6.0/ref/WhileDoWhile.dll
+/home/vinitrech/Projects/c-sharp-learning/WhileDoWhile/bin/Debug/net6.0/WhileDoWhile.pdb
+/home/vinitrech/Projects/c-sharp-learning/WhileDoWhile/obj/Debug/net6.0/WhileDoWhile.dll
+/home/vinitrech/Projects/c-sharp-learning/WhileDoWhile/obj/Debug/net6.0/ref/WhileDoWhile.dll
+/home/vinitrech/Projects/c-sharp-learning/WhileDoWhile/obj/Debug/net6.0/WhileDoWhile.pdb
+/home/vinitrech/Projects/c-sharp-learning/WhileDoWhile/obj/Debug/net6.0/WhileDoWhile.genruntimeconfig.cache
