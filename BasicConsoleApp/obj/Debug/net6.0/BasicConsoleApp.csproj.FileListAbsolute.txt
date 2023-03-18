@@ -1,0 +1,15 @@
+/home/vinitrech/Projects/c-sharp-learning/BasicConsoleApp/bin/Debug/net6.0/BasicConsoleApp
+/home/vinitrech/Projects/c-sharp-learning/BasicConsoleApp/bin/Debug/net6.0/BasicConsoleApp.deps.json
+/home/vinitrech/Projects/c-sharp-learning/BasicConsoleApp/bin/Debug/net6.0/BasicConsoleApp.runtimeconfig.json
+/home/vinitrech/Projects/c-sharp-learning/BasicConsoleApp/bin/Debug/net6.0/BasicConsoleApp.dll
+/home/vinitrech/Projects/c-sharp-learning/BasicConsoleApp/bin/Debug/net6.0/ref/BasicConsoleApp.dll
+/home/vinitrech/Projects/c-sharp-learning/BasicConsoleApp/bin/Debug/net6.0/BasicConsoleApp.pdb
+/home/vinitrech/Projects/c-sharp-learning/BasicConsoleApp/obj/Debug/net6.0/BasicConsoleApp.csproj.AssemblyReference.cache
+/home/vinitrech/Projects/c-sharp-learning/BasicConsoleApp/obj/Debug/net6.0/BasicConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinitrech/Projects/c-sharp-learning/BasicConsoleApp/obj/Debug/net6.0/BasicConsoleApp.AssemblyInfoInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/BasicConsoleApp/obj/Debug/net6.0/BasicConsoleApp.AssemblyInfo.cs
+/home/vinitrech/Projects/c-sharp-learning/BasicConsoleApp/obj/Debug/net6.0/BasicConsoleApp.csproj.CoreCompileInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/BasicConsoleApp/obj/Debug/net6.0/BasicConsoleApp.dll
+/home/vinitrech/Projects/c-sharp-learning/BasicConsoleApp/obj/Debug/net6.0/ref/BasicConsoleApp.dll
+/home/vinitrech/Projects/c-sharp-learning/BasicConsoleApp/obj/Debug/net6.0/BasicConsoleApp.pdb
+/home/vinitrech/Projects/c-sharp-learning/BasicConsoleApp/obj/Debug/net6.0/BasicConsoleApp.genruntimeconfig.cache
