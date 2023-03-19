@@ -1,0 +1,15 @@
+/home/vinitrech/Projects/c-sharp-learning/EnumeratedTypes/obj/Debug/net6.0/EnumeratedTypes.csproj.AssemblyReference.cache
+/home/vinitrech/Projects/c-sharp-learning/EnumeratedTypes/obj/Debug/net6.0/EnumeratedTypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinitrech/Projects/c-sharp-learning/EnumeratedTypes/obj/Debug/net6.0/EnumeratedTypes.AssemblyInfoInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/EnumeratedTypes/obj/Debug/net6.0/EnumeratedTypes.AssemblyInfo.cs
+/home/vinitrech/Projects/c-sharp-learning/EnumeratedTypes/obj/Debug/net6.0/EnumeratedTypes.csproj.CoreCompileInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/EnumeratedTypes/bin/Debug/net6.0/EnumeratedTypes
+/home/vinitrech/Projects/c-sharp-learning/EnumeratedTypes/bin/Debug/net6.0/EnumeratedTypes.deps.json
+/home/vinitrech/Projects/c-sharp-learning/EnumeratedTypes/bin/Debug/net6.0/EnumeratedTypes.runtimeconfig.json
+/home/vinitrech/Projects/c-sharp-learning/EnumeratedTypes/bin/Debug/net6.0/EnumeratedTypes.dll
+/home/vinitrech/Projects/c-sharp-learning/EnumeratedTypes/bin/Debug/net6.0/ref/EnumeratedTypes.dll
+/home/vinitrech/Projects/c-sharp-learning/EnumeratedTypes/bin/Debug/net6.0/EnumeratedTypes.pdb
+/home/vinitrech/Projects/c-sharp-learning/EnumeratedTypes/obj/Debug/net6.0/EnumeratedTypes.dll
+/home/vinitrech/Projects/c-sharp-learning/EnumeratedTypes/obj/Debug/net6.0/ref/EnumeratedTypes.dll
+/home/vinitrech/Projects/c-sharp-learning/EnumeratedTypes/obj/Debug/net6.0/EnumeratedTypes.pdb
+/home/vinitrech/Projects/c-sharp-learning/EnumeratedTypes/obj/Debug/net6.0/EnumeratedTypes.genruntimeconfig.cache

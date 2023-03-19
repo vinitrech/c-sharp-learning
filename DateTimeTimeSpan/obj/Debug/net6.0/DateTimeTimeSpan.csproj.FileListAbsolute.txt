@@ -1,0 +1,15 @@
+/home/vinitrech/Projects/c-sharp-learning/DateTimeTimeSpan/obj/Debug/net6.0/DateTimeTimeSpan.csproj.AssemblyReference.cache
+/home/vinitrech/Projects/c-sharp-learning/DateTimeTimeSpan/obj/Debug/net6.0/DateTimeTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinitrech/Projects/c-sharp-learning/DateTimeTimeSpan/obj/Debug/net6.0/DateTimeTimeSpan.AssemblyInfoInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/DateTimeTimeSpan/obj/Debug/net6.0/DateTimeTimeSpan.AssemblyInfo.cs
+/home/vinitrech/Projects/c-sharp-learning/DateTimeTimeSpan/obj/Debug/net6.0/DateTimeTimeSpan.csproj.CoreCompileInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/DateTimeTimeSpan/bin/Debug/net6.0/DateTimeTimeSpan
+/home/vinitrech/Projects/c-sharp-learning/DateTimeTimeSpan/bin/Debug/net6.0/DateTimeTimeSpan.deps.json
+/home/vinitrech/Projects/c-sharp-learning/DateTimeTimeSpan/bin/Debug/net6.0/DateTimeTimeSpan.runtimeconfig.json
+/home/vinitrech/Projects/c-sharp-learning/DateTimeTimeSpan/bin/Debug/net6.0/DateTimeTimeSpan.dll
+/home/vinitrech/Projects/c-sharp-learning/DateTimeTimeSpan/bin/Debug/net6.0/ref/DateTimeTimeSpan.dll
+/home/vinitrech/Projects/c-sharp-learning/DateTimeTimeSpan/bin/Debug/net6.0/DateTimeTimeSpan.pdb
+/home/vinitrech/Projects/c-sharp-learning/DateTimeTimeSpan/obj/Debug/net6.0/DateTimeTimeSpan.dll
+/home/vinitrech/Projects/c-sharp-learning/DateTimeTimeSpan/obj/Debug/net6.0/ref/DateTimeTimeSpan.dll
+/home/vinitrech/Projects/c-sharp-learning/DateTimeTimeSpan/obj/Debug/net6.0/DateTimeTimeSpan.pdb
+/home/vinitrech/Projects/c-sharp-learning/DateTimeTimeSpan/obj/Debug/net6.0/DateTimeTimeSpan.genruntimeconfig.cache
