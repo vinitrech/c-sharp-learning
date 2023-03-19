@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Net.Http.Headers;
 
 namespace Functions
 {
@@ -25,6 +26,56 @@ namespace Functions
                 Console.WriteLine("{0}", value);
             }
         }
+
+        /****************************** PASSING BY VALUE ******************************/
+        static double GetSum(double x = 1, double y = 1)
+        {
+            return x + y;
+        }
+
+        /****************************** PASSING BY REFERENCE ******************************/
+        static void DoubleIt(int x, out int solution) // out = the parameter passed MUST be modified by the metho (Passing by reference);
+        {
+            solution = x * 2;
+        }
+
+        public static void Swap(ref int x, ref int y) // ref = the parameter passed MAY be modified by the method (Passing by reference);
+        {
+            int aux = x;
+            x = y;
+            y = aux;
+        }
+
+        /****************************** UNKNOWN NUMBER OF PARAMETERS ******************************/
+        static double GetSumMore(params double[] numbers) // if there are more parameters, the dynamic part should always come last
+        {
+            double sum = 0;
+            foreach (double i in numbers)
+            {
+                sum += i;
+            }
+
+            return sum;
+        }
+
+        /****************************** NAMED PARAMETERS ******************************/
+        static void PrintInfo(string name, string zipCode)
+        {
+            Console.WriteLine("{0} lives in the zip code {1}", name, zipCode);
+        }
+
+
+        /****************************** METHOD OVERLOADING ******************************/
+        static double GetSumGeneric(double num1 = 1, double num2 = 1)
+        {
+            return num1 + num2;
+        }
+
+        static double GetSumGeneric(string num1 = "1", string num2 = "1")
+        {
+            return Convert.ToDouble(num1) + Convert.ToDouble(num2);
+        }
+
 
         static void Main(string[] args)
         {
@@ -61,6 +112,28 @@ namespace Functions
             Console.WriteLine("> 10 : {0}", Array.Find(numbers, element => element > 10));
 
             SayHello("Some name");
+
+            double x = 5;
+            double y = 4;
+
+            Console.WriteLine("{0} + {1} = {2}", x, y, GetSum(x, y)); // passing by value
+
+            int solution;
+            DoubleIt(15, out solution); // passing solution by reference
+            Console.WriteLine("Value of solution: {0}", solution);
+
+            int number3 = 10;
+            int number4 = 20;
+            Console.WriteLine("Before swap number3: {0}, number4: {1}", number3, number4);
+            Swap(ref number3, ref number4); // passing by reference
+            Console.WriteLine("After swap number3: {0}, number4: {1}", number3, number4);
+
+
+            Console.WriteLine(GetSumMore(1.0, 2, 3.3, 4, 5.1, 6, 7)); // variable number of parameters
+
+            PrintInfo(zipCode: "022918212", name: "Random Name"); // random order of parameters using named parameters
+
+            Console.WriteLine("Double sum: {0} - String sum: {1} ", GetSumGeneric(1, 2), GetSumGeneric("1", "2"));
         }
     }
 }
