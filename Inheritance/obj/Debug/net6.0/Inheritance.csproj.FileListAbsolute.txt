@@ -1,0 +1,15 @@
+/home/vinitrech/Projects/c-sharp-learning/Inheritance/bin/Debug/net6.0/Inheritance
+/home/vinitrech/Projects/c-sharp-learning/Inheritance/bin/Debug/net6.0/Inheritance.deps.json
+/home/vinitrech/Projects/c-sharp-learning/Inheritance/bin/Debug/net6.0/Inheritance.runtimeconfig.json
+/home/vinitrech/Projects/c-sharp-learning/Inheritance/bin/Debug/net6.0/Inheritance.dll
+/home/vinitrech/Projects/c-sharp-learning/Inheritance/bin/Debug/net6.0/ref/Inheritance.dll
+/home/vinitrech/Projects/c-sharp-learning/Inheritance/bin/Debug/net6.0/Inheritance.pdb
+/home/vinitrech/Projects/c-sharp-learning/Inheritance/obj/Debug/net6.0/Inheritance.csproj.AssemblyReference.cache
+/home/vinitrech/Projects/c-sharp-learning/Inheritance/obj/Debug/net6.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinitrech/Projects/c-sharp-learning/Inheritance/obj/Debug/net6.0/Inheritance.AssemblyInfoInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/Inheritance/obj/Debug/net6.0/Inheritance.AssemblyInfo.cs
+/home/vinitrech/Projects/c-sharp-learning/Inheritance/obj/Debug/net6.0/Inheritance.csproj.CoreCompileInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/Inheritance/obj/Debug/net6.0/Inheritance.dll
+/home/vinitrech/Projects/c-sharp-learning/Inheritance/obj/Debug/net6.0/ref/Inheritance.dll
+/home/vinitrech/Projects/c-sharp-learning/Inheritance/obj/Debug/net6.0/Inheritance.pdb
+/home/vinitrech/Projects/c-sharp-learning/Inheritance/obj/Debug/net6.0/Inheritance.genruntimeconfig.cache
