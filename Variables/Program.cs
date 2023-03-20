@@ -25,6 +25,7 @@ namespace Variables
             uint uintValue = 2; // 32 bit unsigned int
             ulong ulongValue = 2; // 64 bit unsigned long
             ushort ushortValue = 2; // 16 bit unsigned short
+            const string RANDOM_CONST = "RANDOM CONST";
 
             /*********************** CASTING ***********************/
 

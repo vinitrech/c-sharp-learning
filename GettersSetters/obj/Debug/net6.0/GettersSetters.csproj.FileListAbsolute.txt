@@ -1,0 +1,15 @@
+/home/vinitrech/Projects/c-sharp-learning/GettersSetters/obj/Debug/net6.0/GettersSetters.csproj.AssemblyReference.cache
+/home/vinitrech/Projects/c-sharp-learning/GettersSetters/obj/Debug/net6.0/GettersSetters.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinitrech/Projects/c-sharp-learning/GettersSetters/obj/Debug/net6.0/GettersSetters.AssemblyInfoInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/GettersSetters/obj/Debug/net6.0/GettersSetters.AssemblyInfo.cs
+/home/vinitrech/Projects/c-sharp-learning/GettersSetters/obj/Debug/net6.0/GettersSetters.csproj.CoreCompileInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/GettersSetters/bin/Debug/net6.0/GettersSetters
+/home/vinitrech/Projects/c-sharp-learning/GettersSetters/bin/Debug/net6.0/GettersSetters.deps.json
+/home/vinitrech/Projects/c-sharp-learning/GettersSetters/bin/Debug/net6.0/GettersSetters.runtimeconfig.json
+/home/vinitrech/Projects/c-sharp-learning/GettersSetters/bin/Debug/net6.0/GettersSetters.dll
+/home/vinitrech/Projects/c-sharp-learning/GettersSetters/bin/Debug/net6.0/ref/GettersSetters.dll
+/home/vinitrech/Projects/c-sharp-learning/GettersSetters/bin/Debug/net6.0/GettersSetters.pdb
+/home/vinitrech/Projects/c-sharp-learning/GettersSetters/obj/Debug/net6.0/GettersSetters.dll
+/home/vinitrech/Projects/c-sharp-learning/GettersSetters/obj/Debug/net6.0/ref/GettersSetters.dll
+/home/vinitrech/Projects/c-sharp-learning/GettersSetters/obj/Debug/net6.0/GettersSetters.pdb
+/home/vinitrech/Projects/c-sharp-learning/GettersSetters/obj/Debug/net6.0/GettersSetters.genruntimeconfig.cache

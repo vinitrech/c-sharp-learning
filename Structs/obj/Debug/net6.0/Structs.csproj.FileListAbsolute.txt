@@ -1,0 +1,15 @@
+/home/vinitrech/Projects/c-sharp-learning/Structs/bin/Debug/net6.0/Structs
+/home/vinitrech/Projects/c-sharp-learning/Structs/bin/Debug/net6.0/Structs.deps.json
+/home/vinitrech/Projects/c-sharp-learning/Structs/bin/Debug/net6.0/Structs.runtimeconfig.json
+/home/vinitrech/Projects/c-sharp-learning/Structs/bin/Debug/net6.0/Structs.dll
+/home/vinitrech/Projects/c-sharp-learning/Structs/bin/Debug/net6.0/ref/Structs.dll
+/home/vinitrech/Projects/c-sharp-learning/Structs/bin/Debug/net6.0/Structs.pdb
+/home/vinitrech/Projects/c-sharp-learning/Structs/obj/Debug/net6.0/Structs.csproj.AssemblyReference.cache
+/home/vinitrech/Projects/c-sharp-learning/Structs/obj/Debug/net6.0/Structs.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinitrech/Projects/c-sharp-learning/Structs/obj/Debug/net6.0/Structs.AssemblyInfoInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/Structs/obj/Debug/net6.0/Structs.AssemblyInfo.cs
+/home/vinitrech/Projects/c-sharp-learning/Structs/obj/Debug/net6.0/Structs.csproj.CoreCompileInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/Structs/obj/Debug/net6.0/Structs.dll
+/home/vinitrech/Projects/c-sharp-learning/Structs/obj/Debug/net6.0/ref/Structs.dll
+/home/vinitrech/Projects/c-sharp-learning/Structs/obj/Debug/net6.0/Structs.pdb
+/home/vinitrech/Projects/c-sharp-learning/Structs/obj/Debug/net6.0/Structs.genruntimeconfig.cache

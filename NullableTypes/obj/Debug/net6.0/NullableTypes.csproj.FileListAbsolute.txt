@@ -1,0 +1,15 @@
+/home/vinitrech/Projects/c-sharp-learning/NullableTypes/obj/Debug/net6.0/NullableTypes.csproj.AssemblyReference.cache
+/home/vinitrech/Projects/c-sharp-learning/NullableTypes/obj/Debug/net6.0/NullableTypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinitrech/Projects/c-sharp-learning/NullableTypes/obj/Debug/net6.0/NullableTypes.AssemblyInfoInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/NullableTypes/obj/Debug/net6.0/NullableTypes.AssemblyInfo.cs
+/home/vinitrech/Projects/c-sharp-learning/NullableTypes/obj/Debug/net6.0/NullableTypes.csproj.CoreCompileInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/NullableTypes/bin/Debug/net6.0/NullableTypes
+/home/vinitrech/Projects/c-sharp-learning/NullableTypes/bin/Debug/net6.0/NullableTypes.deps.json
+/home/vinitrech/Projects/c-sharp-learning/NullableTypes/bin/Debug/net6.0/NullableTypes.runtimeconfig.json
+/home/vinitrech/Projects/c-sharp-learning/NullableTypes/bin/Debug/net6.0/NullableTypes.dll
+/home/vinitrech/Projects/c-sharp-learning/NullableTypes/bin/Debug/net6.0/ref/NullableTypes.dll
+/home/vinitrech/Projects/c-sharp-learning/NullableTypes/bin/Debug/net6.0/NullableTypes.pdb
+/home/vinitrech/Projects/c-sharp-learning/NullableTypes/obj/Debug/net6.0/NullableTypes.dll
+/home/vinitrech/Projects/c-sharp-learning/NullableTypes/obj/Debug/net6.0/ref/NullableTypes.dll
+/home/vinitrech/Projects/c-sharp-learning/NullableTypes/obj/Debug/net6.0/NullableTypes.pdb
+/home/vinitrech/Projects/c-sharp-learning/NullableTypes/obj/Debug/net6.0/NullableTypes.genruntimeconfig.cache
