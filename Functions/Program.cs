@@ -5,12 +5,6 @@ namespace Functions
 {
     public class Program
     {
-        /*
-        public: Can be accessed from other classes
-        private: Cannot be accessed by other classes
-        protected: Can only be accessed by derived classes        
-        */
-
         private static void SayHello(string name)
         {
             Console.WriteLine("Hello, {0}", name);

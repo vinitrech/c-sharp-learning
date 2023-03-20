@@ -1,0 +1,15 @@
+/home/vinitrech/Projects/c-sharp-learning/AbstractClassesAndMethods/bin/Debug/net6.0/AbstractClassesAndMethods
+/home/vinitrech/Projects/c-sharp-learning/AbstractClassesAndMethods/bin/Debug/net6.0/AbstractClassesAndMethods.deps.json
+/home/vinitrech/Projects/c-sharp-learning/AbstractClassesAndMethods/bin/Debug/net6.0/AbstractClassesAndMethods.runtimeconfig.json
+/home/vinitrech/Projects/c-sharp-learning/AbstractClassesAndMethods/bin/Debug/net6.0/AbstractClassesAndMethods.dll
+/home/vinitrech/Projects/c-sharp-learning/AbstractClassesAndMethods/bin/Debug/net6.0/ref/AbstractClassesAndMethods.dll
+/home/vinitrech/Projects/c-sharp-learning/AbstractClassesAndMethods/bin/Debug/net6.0/AbstractClassesAndMethods.pdb
+/home/vinitrech/Projects/c-sharp-learning/AbstractClassesAndMethods/obj/Debug/net6.0/AbstractClassesAndMethods.csproj.AssemblyReference.cache
+/home/vinitrech/Projects/c-sharp-learning/AbstractClassesAndMethods/obj/Debug/net6.0/AbstractClassesAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinitrech/Projects/c-sharp-learning/AbstractClassesAndMethods/obj/Debug/net6.0/AbstractClassesAndMethods.AssemblyInfoInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/AbstractClassesAndMethods/obj/Debug/net6.0/AbstractClassesAndMethods.AssemblyInfo.cs
+/home/vinitrech/Projects/c-sharp-learning/AbstractClassesAndMethods/obj/Debug/net6.0/AbstractClassesAndMethods.csproj.CoreCompileInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/AbstractClassesAndMethods/obj/Debug/net6.0/AbstractClassesAndMethods.dll
+/home/vinitrech/Projects/c-sharp-learning/AbstractClassesAndMethods/obj/Debug/net6.0/ref/AbstractClassesAndMethods.dll
+/home/vinitrech/Projects/c-sharp-learning/AbstractClassesAndMethods/obj/Debug/net6.0/AbstractClassesAndMethods.pdb
+/home/vinitrech/Projects/c-sharp-learning/AbstractClassesAndMethods/obj/Debug/net6.0/AbstractClassesAndMethods.genruntimeconfig.cache

@@ -10,6 +10,7 @@ namespace Variables
             // Logical operators: && || !
             // Arithmetic operators: + - * / == -- % 
             // Bitwise operators: ~ << >> >>> & ^ |
+            // Type assertion operators: is as
             // All arithmetic and bitwise operators support compound assignment
 
             bool canIVote = true;
