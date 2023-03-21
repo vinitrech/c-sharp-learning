@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WarriosFightToTheDeath/1.0.0": {
+        "runtime": {
+          "WarriosFightToTheDeath.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WarriosFightToTheDeath/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

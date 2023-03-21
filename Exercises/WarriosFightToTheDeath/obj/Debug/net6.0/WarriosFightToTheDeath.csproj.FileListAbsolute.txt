@@ -1,0 +1,15 @@
+/home/vinitrech/Projects/c-sharp-learning/Exercises/WarriosFightToTheDeath/bin/Debug/net6.0/WarriosFightToTheDeath
+/home/vinitrech/Projects/c-sharp-learning/Exercises/WarriosFightToTheDeath/bin/Debug/net6.0/WarriosFightToTheDeath.deps.json
+/home/vinitrech/Projects/c-sharp-learning/Exercises/WarriosFightToTheDeath/bin/Debug/net6.0/WarriosFightToTheDeath.runtimeconfig.json
+/home/vinitrech/Projects/c-sharp-learning/Exercises/WarriosFightToTheDeath/bin/Debug/net6.0/WarriosFightToTheDeath.dll
+/home/vinitrech/Projects/c-sharp-learning/Exercises/WarriosFightToTheDeath/bin/Debug/net6.0/ref/WarriosFightToTheDeath.dll
+/home/vinitrech/Projects/c-sharp-learning/Exercises/WarriosFightToTheDeath/bin/Debug/net6.0/WarriosFightToTheDeath.pdb
+/home/vinitrech/Projects/c-sharp-learning/Exercises/WarriosFightToTheDeath/obj/Debug/net6.0/WarriosFightToTheDeath.csproj.AssemblyReference.cache
+/home/vinitrech/Projects/c-sharp-learning/Exercises/WarriosFightToTheDeath/obj/Debug/net6.0/WarriosFightToTheDeath.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinitrech/Projects/c-sharp-learning/Exercises/WarriosFightToTheDeath/obj/Debug/net6.0/WarriosFightToTheDeath.AssemblyInfoInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/Exercises/WarriosFightToTheDeath/obj/Debug/net6.0/WarriosFightToTheDeath.AssemblyInfo.cs
+/home/vinitrech/Projects/c-sharp-learning/Exercises/WarriosFightToTheDeath/obj/Debug/net6.0/WarriosFightToTheDeath.csproj.CoreCompileInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/Exercises/WarriosFightToTheDeath/obj/Debug/net6.0/WarriosFightToTheDeath.dll
+/home/vinitrech/Projects/c-sharp-learning/Exercises/WarriosFightToTheDeath/obj/Debug/net6.0/ref/WarriosFightToTheDeath.dll
+/home/vinitrech/Projects/c-sharp-learning/Exercises/WarriosFightToTheDeath/obj/Debug/net6.0/WarriosFightToTheDeath.pdb
+/home/vinitrech/Projects/c-sharp-learning/Exercises/WarriosFightToTheDeath/obj/Debug/net6.0/WarriosFightToTheDeath.genruntimeconfig.cache
