@@ -1,0 +1,15 @@
+/home/vinitrech/Projects/c-sharp-learning/Generics/bin/Debug/net6.0/Generics
+/home/vinitrech/Projects/c-sharp-learning/Generics/bin/Debug/net6.0/Generics.deps.json
+/home/vinitrech/Projects/c-sharp-learning/Generics/bin/Debug/net6.0/Generics.runtimeconfig.json
+/home/vinitrech/Projects/c-sharp-learning/Generics/bin/Debug/net6.0/Generics.dll
+/home/vinitrech/Projects/c-sharp-learning/Generics/bin/Debug/net6.0/ref/Generics.dll
+/home/vinitrech/Projects/c-sharp-learning/Generics/bin/Debug/net6.0/Generics.pdb
+/home/vinitrech/Projects/c-sharp-learning/Generics/obj/Debug/net6.0/Generics.csproj.AssemblyReference.cache
+/home/vinitrech/Projects/c-sharp-learning/Generics/obj/Debug/net6.0/Generics.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinitrech/Projects/c-sharp-learning/Generics/obj/Debug/net6.0/Generics.AssemblyInfoInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/Generics/obj/Debug/net6.0/Generics.AssemblyInfo.cs
+/home/vinitrech/Projects/c-sharp-learning/Generics/obj/Debug/net6.0/Generics.csproj.CoreCompileInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/Generics/obj/Debug/net6.0/Generics.dll
+/home/vinitrech/Projects/c-sharp-learning/Generics/obj/Debug/net6.0/ref/Generics.dll
+/home/vinitrech/Projects/c-sharp-learning/Generics/obj/Debug/net6.0/Generics.pdb
+/home/vinitrech/Projects/c-sharp-learning/Generics/obj/Debug/net6.0/Generics.genruntimeconfig.cache

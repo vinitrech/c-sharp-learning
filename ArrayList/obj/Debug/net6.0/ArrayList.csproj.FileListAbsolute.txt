@@ -1,0 +1,15 @@
+/home/vinitrech/Projects/c-sharp-learning/ArrayList/bin/Debug/net6.0/ArrayList
+/home/vinitrech/Projects/c-sharp-learning/ArrayList/bin/Debug/net6.0/ArrayList.deps.json
+/home/vinitrech/Projects/c-sharp-learning/ArrayList/bin/Debug/net6.0/ArrayList.runtimeconfig.json
+/home/vinitrech/Projects/c-sharp-learning/ArrayList/bin/Debug/net6.0/ArrayList.dll
+/home/vinitrech/Projects/c-sharp-learning/ArrayList/bin/Debug/net6.0/ref/ArrayList.dll
+/home/vinitrech/Projects/c-sharp-learning/ArrayList/bin/Debug/net6.0/ArrayList.pdb
+/home/vinitrech/Projects/c-sharp-learning/ArrayList/obj/Debug/net6.0/ArrayList.csproj.AssemblyReference.cache
+/home/vinitrech/Projects/c-sharp-learning/ArrayList/obj/Debug/net6.0/ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinitrech/Projects/c-sharp-learning/ArrayList/obj/Debug/net6.0/ArrayList.AssemblyInfoInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/ArrayList/obj/Debug/net6.0/ArrayList.AssemblyInfo.cs
+/home/vinitrech/Projects/c-sharp-learning/ArrayList/obj/Debug/net6.0/ArrayList.csproj.CoreCompileInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/ArrayList/obj/Debug/net6.0/ArrayList.dll
+/home/vinitrech/Projects/c-sharp-learning/ArrayList/obj/Debug/net6.0/ref/ArrayList.dll
+/home/vinitrech/Projects/c-sharp-learning/ArrayList/obj/Debug/net6.0/ArrayList.pdb
+/home/vinitrech/Projects/c-sharp-learning/ArrayList/obj/Debug/net6.0/ArrayList.genruntimeconfig.cache

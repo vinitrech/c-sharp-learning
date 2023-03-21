@@ -1,0 +1,15 @@
+/home/vinitrech/Projects/c-sharp-learning/Dictionaries/bin/Debug/net6.0/Dictionaries
+/home/vinitrech/Projects/c-sharp-learning/Dictionaries/bin/Debug/net6.0/Dictionaries.deps.json
+/home/vinitrech/Projects/c-sharp-learning/Dictionaries/bin/Debug/net6.0/Dictionaries.runtimeconfig.json
+/home/vinitrech/Projects/c-sharp-learning/Dictionaries/bin/Debug/net6.0/Dictionaries.dll
+/home/vinitrech/Projects/c-sharp-learning/Dictionaries/bin/Debug/net6.0/ref/Dictionaries.dll
+/home/vinitrech/Projects/c-sharp-learning/Dictionaries/bin/Debug/net6.0/Dictionaries.pdb
+/home/vinitrech/Projects/c-sharp-learning/Dictionaries/obj/Debug/net6.0/Dictionaries.csproj.AssemblyReference.cache
+/home/vinitrech/Projects/c-sharp-learning/Dictionaries/obj/Debug/net6.0/Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinitrech/Projects/c-sharp-learning/Dictionaries/obj/Debug/net6.0/Dictionaries.AssemblyInfoInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/Dictionaries/obj/Debug/net6.0/Dictionaries.AssemblyInfo.cs
+/home/vinitrech/Projects/c-sharp-learning/Dictionaries/obj/Debug/net6.0/Dictionaries.csproj.CoreCompileInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/Dictionaries/obj/Debug/net6.0/Dictionaries.dll
+/home/vinitrech/Projects/c-sharp-learning/Dictionaries/obj/Debug/net6.0/ref/Dictionaries.dll
+/home/vinitrech/Projects/c-sharp-learning/Dictionaries/obj/Debug/net6.0/Dictionaries.pdb
+/home/vinitrech/Projects/c-sharp-learning/Dictionaries/obj/Debug/net6.0/Dictionaries.genruntimeconfig.cache
