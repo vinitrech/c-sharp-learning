@@ -1,0 +1,15 @@
+/home/vinitrech/Projects/c-sharp-learning/LINQ/bin/Debug/net6.0/LINQ
+/home/vinitrech/Projects/c-sharp-learning/LINQ/bin/Debug/net6.0/LINQ.deps.json
+/home/vinitrech/Projects/c-sharp-learning/LINQ/bin/Debug/net6.0/LINQ.runtimeconfig.json
+/home/vinitrech/Projects/c-sharp-learning/LINQ/bin/Debug/net6.0/LINQ.dll
+/home/vinitrech/Projects/c-sharp-learning/LINQ/bin/Debug/net6.0/ref/LINQ.dll
+/home/vinitrech/Projects/c-sharp-learning/LINQ/bin/Debug/net6.0/LINQ.pdb
+/home/vinitrech/Projects/c-sharp-learning/LINQ/obj/Debug/net6.0/LINQ.csproj.AssemblyReference.cache
+/home/vinitrech/Projects/c-sharp-learning/LINQ/obj/Debug/net6.0/LINQ.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinitrech/Projects/c-sharp-learning/LINQ/obj/Debug/net6.0/LINQ.AssemblyInfoInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/LINQ/obj/Debug/net6.0/LINQ.AssemblyInfo.cs
+/home/vinitrech/Projects/c-sharp-learning/LINQ/obj/Debug/net6.0/LINQ.csproj.CoreCompileInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/LINQ/obj/Debug/net6.0/LINQ.dll
+/home/vinitrech/Projects/c-sharp-learning/LINQ/obj/Debug/net6.0/ref/LINQ.dll
+/home/vinitrech/Projects/c-sharp-learning/LINQ/obj/Debug/net6.0/LINQ.pdb
+/home/vinitrech/Projects/c-sharp-learning/LINQ/obj/Debug/net6.0/LINQ.genruntimeconfig.cache

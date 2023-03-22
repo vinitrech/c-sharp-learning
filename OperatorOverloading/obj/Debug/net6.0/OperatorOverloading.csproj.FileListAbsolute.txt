@@ -1,0 +1,15 @@
+/home/vinitrech/Projects/c-sharp-learning/OperatorOverloading/bin/Debug/net6.0/OperatorOverloading
+/home/vinitrech/Projects/c-sharp-learning/OperatorOverloading/bin/Debug/net6.0/OperatorOverloading.deps.json
+/home/vinitrech/Projects/c-sharp-learning/OperatorOverloading/bin/Debug/net6.0/OperatorOverloading.runtimeconfig.json
+/home/vinitrech/Projects/c-sharp-learning/OperatorOverloading/bin/Debug/net6.0/OperatorOverloading.dll
+/home/vinitrech/Projects/c-sharp-learning/OperatorOverloading/bin/Debug/net6.0/ref/OperatorOverloading.dll
+/home/vinitrech/Projects/c-sharp-learning/OperatorOverloading/bin/Debug/net6.0/OperatorOverloading.pdb
+/home/vinitrech/Projects/c-sharp-learning/OperatorOverloading/obj/Debug/net6.0/OperatorOverloading.csproj.AssemblyReference.cache
+/home/vinitrech/Projects/c-sharp-learning/OperatorOverloading/obj/Debug/net6.0/OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinitrech/Projects/c-sharp-learning/OperatorOverloading/obj/Debug/net6.0/OperatorOverloading.AssemblyInfoInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/OperatorOverloading/obj/Debug/net6.0/OperatorOverloading.AssemblyInfo.cs
+/home/vinitrech/Projects/c-sharp-learning/OperatorOverloading/obj/Debug/net6.0/OperatorOverloading.csproj.CoreCompileInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/OperatorOverloading/obj/Debug/net6.0/OperatorOverloading.dll
+/home/vinitrech/Projects/c-sharp-learning/OperatorOverloading/obj/Debug/net6.0/ref/OperatorOverloading.dll
+/home/vinitrech/Projects/c-sharp-learning/OperatorOverloading/obj/Debug/net6.0/OperatorOverloading.pdb
+/home/vinitrech/Projects/c-sharp-learning/OperatorOverloading/obj/Debug/net6.0/OperatorOverloading.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/vinitrech/Projects/c-sharp-learning/Threads/bin/Debug/net6.0/Threads
+/home/vinitrech/Projects/c-sharp-learning/Threads/bin/Debug/net6.0/Threads.deps.json
+/home/vinitrech/Projects/c-sharp-learning/Threads/bin/Debug/net6.0/Threads.runtimeconfig.json
+/home/vinitrech/Projects/c-sharp-learning/Threads/bin/Debug/net6.0/Threads.dll
+/home/vinitrech/Projects/c-sharp-learning/Threads/bin/Debug/net6.0/ref/Threads.dll
+/home/vinitrech/Projects/c-sharp-learning/Threads/bin/Debug/net6.0/Threads.pdb
+/home/vinitrech/Projects/c-sharp-learning/Threads/obj/Debug/net6.0/Threads.csproj.AssemblyReference.cache
+/home/vinitrech/Projects/c-sharp-learning/Threads/obj/Debug/net6.0/Threads.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinitrech/Projects/c-sharp-learning/Threads/obj/Debug/net6.0/Threads.AssemblyInfoInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/Threads/obj/Debug/net6.0/Threads.AssemblyInfo.cs
+/home/vinitrech/Projects/c-sharp-learning/Threads/obj/Debug/net6.0/Threads.csproj.CoreCompileInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/Threads/obj/Debug/net6.0/Threads.dll
+/home/vinitrech/Projects/c-sharp-learning/Threads/obj/Debug/net6.0/ref/Threads.dll
+/home/vinitrech/Projects/c-sharp-learning/Threads/obj/Debug/net6.0/Threads.pdb
+/home/vinitrech/Projects/c-sharp-learning/Threads/obj/Debug/net6.0/Threads.genruntimeconfig.cache

@@ -27,6 +27,7 @@ namespace Variables
             ulong ulongValue = 2; // 64 bit unsigned long
             ushort ushortValue = 2; // 16 bit unsigned short
             const string RANDOM_CONST = "RANDOM CONST";
+            var someVar = 2; // Anonymous types, once assigned, not changeable
 
             /*********************** CASTING ***********************/
 

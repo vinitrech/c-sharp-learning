@@ -1,0 +1,15 @@
+/home/vinitrech/Projects/c-sharp-learning/Directories/bin/Debug/net6.0/Directories
+/home/vinitrech/Projects/c-sharp-learning/Directories/bin/Debug/net6.0/Directories.deps.json
+/home/vinitrech/Projects/c-sharp-learning/Directories/bin/Debug/net6.0/Directories.runtimeconfig.json
+/home/vinitrech/Projects/c-sharp-learning/Directories/bin/Debug/net6.0/Directories.dll
+/home/vinitrech/Projects/c-sharp-learning/Directories/bin/Debug/net6.0/ref/Directories.dll
+/home/vinitrech/Projects/c-sharp-learning/Directories/bin/Debug/net6.0/Directories.pdb
+/home/vinitrech/Projects/c-sharp-learning/Directories/obj/Debug/net6.0/Directories.csproj.AssemblyReference.cache
+/home/vinitrech/Projects/c-sharp-learning/Directories/obj/Debug/net6.0/Directories.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinitrech/Projects/c-sharp-learning/Directories/obj/Debug/net6.0/Directories.AssemblyInfoInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/Directories/obj/Debug/net6.0/Directories.AssemblyInfo.cs
+/home/vinitrech/Projects/c-sharp-learning/Directories/obj/Debug/net6.0/Directories.csproj.CoreCompileInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/Directories/obj/Debug/net6.0/Directories.dll
+/home/vinitrech/Projects/c-sharp-learning/Directories/obj/Debug/net6.0/ref/Directories.dll
+/home/vinitrech/Projects/c-sharp-learning/Directories/obj/Debug/net6.0/Directories.pdb
+/home/vinitrech/Projects/c-sharp-learning/Directories/obj/Debug/net6.0/Directories.genruntimeconfig.cache

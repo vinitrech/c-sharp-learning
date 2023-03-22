@@ -1,0 +1,15 @@
+/home/vinitrech/Projects/c-sharp-learning/Lambdas/bin/Debug/net6.0/Lambdas
+/home/vinitrech/Projects/c-sharp-learning/Lambdas/bin/Debug/net6.0/Lambdas.deps.json
+/home/vinitrech/Projects/c-sharp-learning/Lambdas/bin/Debug/net6.0/Lambdas.runtimeconfig.json
+/home/vinitrech/Projects/c-sharp-learning/Lambdas/bin/Debug/net6.0/Lambdas.dll
+/home/vinitrech/Projects/c-sharp-learning/Lambdas/bin/Debug/net6.0/ref/Lambdas.dll
+/home/vinitrech/Projects/c-sharp-learning/Lambdas/bin/Debug/net6.0/Lambdas.pdb
+/home/vinitrech/Projects/c-sharp-learning/Lambdas/obj/Debug/net6.0/Lambdas.csproj.AssemblyReference.cache
+/home/vinitrech/Projects/c-sharp-learning/Lambdas/obj/Debug/net6.0/Lambdas.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinitrech/Projects/c-sharp-learning/Lambdas/obj/Debug/net6.0/Lambdas.AssemblyInfoInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/Lambdas/obj/Debug/net6.0/Lambdas.AssemblyInfo.cs
+/home/vinitrech/Projects/c-sharp-learning/Lambdas/obj/Debug/net6.0/Lambdas.csproj.CoreCompileInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/Lambdas/obj/Debug/net6.0/Lambdas.dll
+/home/vinitrech/Projects/c-sharp-learning/Lambdas/obj/Debug/net6.0/ref/Lambdas.dll
+/home/vinitrech/Projects/c-sharp-learning/Lambdas/obj/Debug/net6.0/Lambdas.pdb
+/home/vinitrech/Projects/c-sharp-learning/Lambdas/obj/Debug/net6.0/Lambdas.genruntimeconfig.cache

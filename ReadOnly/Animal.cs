@@ -25,9 +25,11 @@ namespace ReadOnly
             this.id = new Random().Next(1, 281982892);
         }
 
-        public Animal(string name, string sound) : this(name, sound)
+        public Animal(string name, string sound)
         {
             _counter++;
+            this.Name = name;
+            this.Sound = sound;
             this.id = new Random().Next(1, 281982892);
         }
 

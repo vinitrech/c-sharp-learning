@@ -1,0 +1,15 @@
+/home/vinitrech/Projects/c-sharp-learning/Enumerables/bin/Debug/net6.0/Enumerables
+/home/vinitrech/Projects/c-sharp-learning/Enumerables/bin/Debug/net6.0/Enumerables.deps.json
+/home/vinitrech/Projects/c-sharp-learning/Enumerables/bin/Debug/net6.0/Enumerables.runtimeconfig.json
+/home/vinitrech/Projects/c-sharp-learning/Enumerables/bin/Debug/net6.0/Enumerables.dll
+/home/vinitrech/Projects/c-sharp-learning/Enumerables/bin/Debug/net6.0/ref/Enumerables.dll
+/home/vinitrech/Projects/c-sharp-learning/Enumerables/bin/Debug/net6.0/Enumerables.pdb
+/home/vinitrech/Projects/c-sharp-learning/Enumerables/obj/Debug/net6.0/Enumerables.csproj.AssemblyReference.cache
+/home/vinitrech/Projects/c-sharp-learning/Enumerables/obj/Debug/net6.0/Enumerables.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinitrech/Projects/c-sharp-learning/Enumerables/obj/Debug/net6.0/Enumerables.AssemblyInfoInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/Enumerables/obj/Debug/net6.0/Enumerables.AssemblyInfo.cs
+/home/vinitrech/Projects/c-sharp-learning/Enumerables/obj/Debug/net6.0/Enumerables.csproj.CoreCompileInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/Enumerables/obj/Debug/net6.0/Enumerables.dll
+/home/vinitrech/Projects/c-sharp-learning/Enumerables/obj/Debug/net6.0/ref/Enumerables.dll
+/home/vinitrech/Projects/c-sharp-learning/Enumerables/obj/Debug/net6.0/Enumerables.pdb
+/home/vinitrech/Projects/c-sharp-learning/Enumerables/obj/Debug/net6.0/Enumerables.genruntimeconfig.cache
