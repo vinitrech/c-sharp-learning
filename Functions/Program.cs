@@ -5,6 +5,32 @@ namespace Functions
 {
     public class Program
     {
+
+        /************************* ASYNC / AWAIT *************************/
+
+        /* A task in C# is used to implement Task-based Asynchronous Programming. 
+        The Task object is typically executed asynchronously on a thread pool 
+        thread rather than synchronously on the main thread of the application.*/
+
+        /* async - Signals to the compiler that this method contains an await statement; it contains asynchronous operations.
+        await - The await keyword provides a non-blocking way to start a task, then continue execution when that task completes.*/
+
+        //*Bonus* for further use 
+        /*ActionResult - An action is capable of returning a specific data type (see WeatherForecastController action).  
+        When multiple return types are possible, it's common to return ActionResult, IActionResult or ActionResult<T>, 
+        where T represents the data type to be returned.*/
+
+        public static async Task<IEnumerable<User>> GetUsersAsync(IEnumerable<int> userIds)
+        {
+            var getUserTasks = new List<Task<User>>();
+            foreach (int userId in userIds)
+            {
+                getUserTasks.Add(GetUserAsync(userId));
+            }
+
+            return await Task.WhenAll(getUserTasks);
+        }
+
         private static void SayHello(string name)
         {
             Console.WriteLine("Hello, {0}", name);
