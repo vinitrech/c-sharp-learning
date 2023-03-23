@@ -2,7 +2,6 @@
 /home/vinitrech/Projects/c-sharp-learning/Variables/bin/Debug/net6.0/Variables.deps.json
 /home/vinitrech/Projects/c-sharp-learning/Variables/bin/Debug/net6.0/Variables.runtimeconfig.json
 /home/vinitrech/Projects/c-sharp-learning/Variables/bin/Debug/net6.0/Variables.dll
-/home/vinitrech/Projects/c-sharp-learning/Variables/bin/Debug/net6.0/ref/Variables.dll
 /home/vinitrech/Projects/c-sharp-learning/Variables/bin/Debug/net6.0/Variables.pdb
 /home/vinitrech/Projects/c-sharp-learning/Variables/obj/Debug/net6.0/Variables.csproj.AssemblyReference.cache
 /home/vinitrech/Projects/c-sharp-learning/Variables/obj/Debug/net6.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
@@ -13,3 +12,4 @@
 /home/vinitrech/Projects/c-sharp-learning/Variables/obj/Debug/net6.0/ref/Variables.dll
 /home/vinitrech/Projects/c-sharp-learning/Variables/obj/Debug/net6.0/Variables.pdb
 /home/vinitrech/Projects/c-sharp-learning/Variables/obj/Debug/net6.0/Variables.genruntimeconfig.cache
+/home/vinitrech/Projects/c-sharp-learning/Variables/obj/Debug/net6.0/refint/Variables.dll

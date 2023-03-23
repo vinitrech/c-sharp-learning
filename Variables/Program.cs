@@ -41,6 +41,8 @@ namespace Variables
             Console.WriteLine($"Data type : {stringFromDouble.GetType()}");
             Console.WriteLine($"Explicit conversion - losing some data: {(int)1234.221}");
             Console.WriteLine($"Implicit conversion - no data loss: {(long)1}");
+            Console.WriteLine(typeof(int).FullName); // print class name
+            Console.WriteLine(nameof(someVar)); // print variable name
 
             /*********************** FORMATTING OUTPUT ***********************/
 
