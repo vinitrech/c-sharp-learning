@@ -1,0 +1,15 @@
+/home/vinitrech/Projects/c-sharp-learning/Namespaces/obj/Debug/net7.0/Namespaces.csproj.AssemblyReference.cache
+/home/vinitrech/Projects/c-sharp-learning/Namespaces/obj/Debug/net7.0/Namespaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinitrech/Projects/c-sharp-learning/Namespaces/obj/Debug/net7.0/Namespaces.AssemblyInfoInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/Namespaces/obj/Debug/net7.0/Namespaces.AssemblyInfo.cs
+/home/vinitrech/Projects/c-sharp-learning/Namespaces/obj/Debug/net7.0/Namespaces.csproj.CoreCompileInputs.cache
+/home/vinitrech/Projects/c-sharp-learning/Namespaces/bin/Debug/net7.0/Namespaces
+/home/vinitrech/Projects/c-sharp-learning/Namespaces/bin/Debug/net7.0/Namespaces.deps.json
+/home/vinitrech/Projects/c-sharp-learning/Namespaces/bin/Debug/net7.0/Namespaces.runtimeconfig.json
+/home/vinitrech/Projects/c-sharp-learning/Namespaces/bin/Debug/net7.0/Namespaces.dll
+/home/vinitrech/Projects/c-sharp-learning/Namespaces/bin/Debug/net7.0/Namespaces.pdb
+/home/vinitrech/Projects/c-sharp-learning/Namespaces/obj/Debug/net7.0/Namespaces.dll
+/home/vinitrech/Projects/c-sharp-learning/Namespaces/obj/Debug/net7.0/refint/Namespaces.dll
+/home/vinitrech/Projects/c-sharp-learning/Namespaces/obj/Debug/net7.0/Namespaces.pdb
+/home/vinitrech/Projects/c-sharp-learning/Namespaces/obj/Debug/net7.0/Namespaces.genruntimeconfig.cache
+/home/vinitrech/Projects/c-sharp-learning/Namespaces/obj/Debug/net7.0/ref/Namespaces.dll
