@@ -4,6 +4,7 @@ namespace Inheritance
 {
     public class Program
     {
+        // A class can implement any number of interfaces, but can inherit from only one base class. The class inheritance must come before any interfaces.
         static void Main(string[] args)
         {
             Animal cat = new Animal("Whiskers", "Meow");
