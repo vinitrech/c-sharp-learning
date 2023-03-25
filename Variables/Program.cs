@@ -26,7 +26,7 @@ namespace Variables
             uint uintValue = 2; // 32 bit unsigned int
             ulong ulongValue = 2; // 64 bit unsigned long
             ushort ushortValue = 2; // 16 bit unsigned short
-            const string RANDOM_CONST = "RANDOM CONST";
+            const string RANDOM_CONST = "RANDOM CONST"; // immutable at creation <- differs from readonly
             var someVar = 2; // Anonymous types, once assigned, not changeable
 
             /*********************** CASTING ***********************/

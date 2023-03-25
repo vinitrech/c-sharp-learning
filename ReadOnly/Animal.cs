@@ -11,7 +11,7 @@ namespace ReadOnly
         private string _name;
         private string _sound;
         private static int _counter = 0;
-        public readonly int id; // setted inside constructor, immutable after.
+        public readonly int id = 8; // setted at creation or/and inside constructor, immutable after.
 
         public Animal() : this("No name", "No sound")
         {
