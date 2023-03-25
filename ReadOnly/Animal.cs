@@ -11,7 +11,8 @@ namespace ReadOnly
         private string _name;
         private string _sound;
         private static int _counter = 0;
-        public readonly int id = 8; // setted at creation or/and inside constructor, immutable after.
+        public readonly int id = 8; // setted at creation or/and inside constructor, immutable after. 
+        //Example: There is a private readonly field declared in the class but it is assigned a value only in the constructor via dependence injection
 
         public Animal() : this("No name", "No sound")
         {
