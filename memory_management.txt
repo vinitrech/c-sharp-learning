@@ -1,0 +1,2 @@
+Stack: small memory portion where value-types and pointers live.
+Heap: big memory portion where reference-type are in fact allocated. To facilitate access to them, pointers are created in the stack to give direct access to its location in the heap.

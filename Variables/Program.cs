@@ -73,7 +73,6 @@ namespace Variables
             Console.Write("Hello" + "\n"); // Hello
             Console.Write("a \' \" \'' \""); // a ' " '' "
             Console.Write(@"\n\n\n\n\n\n"); // \n\n\n\n\n\n
-
         }
     }
 }

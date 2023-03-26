@@ -96,6 +96,10 @@ namespace Functions
             return Convert.ToDouble(num1) + Convert.ToDouble(num2);
         }
 
+        public string TestDefault(string par)
+        {
+            return default; // returns default value of a type
+        }
 
         static void Main(string[] args)
         {
