@@ -40,6 +40,25 @@ namespace ForLoop
                     }
                 }
             }
+
+            Console.WriteLine("\n================================\n");
+
+            foreach (int i in returnFirstNumber(10))
+            {
+                Console.WriteLine("Resultado de {0}", i);
+            }
+        }
+
+        // YIELD <-> Use the yield statement in an iterator to provide (return) the next value from a sequence when iterating over it.
+        public static IEnumerable<int> returnFirstNumber(int upTo)
+        {
+            for (int x = 0; x < upTo; x++)
+            {
+               Thread.Sleep(1000);
+               
+               Console.WriteLine("Yield de: {0}", x);
+               yield return x;
+            }
         }
     }
 }
