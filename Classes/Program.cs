@@ -26,4 +26,7 @@ namespace Classes
             Console.WriteLine("Number of animals: {0}", Animal.GetNumberOfAnimals());
         }
     }
+
+    public partial class TestClass1{ //This class can be defined in multiple places inside the same namespace, all of the pieces must contain a "partial" keyword
+    }
 }
