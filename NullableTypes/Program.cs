@@ -1,5 +1,7 @@
 ﻿using System;
 
+// Null should be checked with "is null" or "is not null"
+
 namespace NullableTypes
 {
     public class Program
@@ -13,7 +15,7 @@ namespace NullableTypes
             int? testNull = null;
             testNull ??= 5; // if testNull is null, assign 5
 
-            Console.WriteLine("testNull is equal to null: {0} with value {1}", testNull == null, testNull);
+            Console.WriteLine("testNull is equal to null: {0} with value {1}", testNull is null, testNull);
 
             int? testNull2 = testNull ?? 10; // if testNull is null, assign 10. If is not null, assign testNull
             Console.WriteLine("testNull2 is equal to null: {0} with value {1}", testNull2 == null, testNull2);
