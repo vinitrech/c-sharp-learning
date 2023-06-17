@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z4bOKNn0+yjW7lyGEkUSwmWkVcsWXObqKKpk9AX98CcV3D1UFz8/ZDgbXrtH4CKkMro0EOsP75r1CbcBuYnkeg==",
+  "dgSpecHash": "dqzoorhTcc04mBolp1G72Qg4ydaSpMW+uzICYSUdf7epwWTAolhHdOIbX20uICSEfA2JxlYZ3yk41LpV1jRIbg==",
   "success": true,
-  "projectFilePath": "/home/vinitrech/Projects/c-sharp-learning/Interfaces/Interfaces.csproj",
+  "projectFilePath": "C:\\Users\\vinit\\Projects\\c-sharp-learning\\Interfaces\\Interfaces.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

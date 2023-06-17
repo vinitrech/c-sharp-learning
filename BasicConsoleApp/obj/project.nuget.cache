@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tvynax5+smWzjpoi3ziYfxpCFIK2pGjnl9mUKjC7Z8phaCAU8xKY9p5lzvv7h+e8iohr3amqmv1tyVNv3NnLRQ==",
+  "dgSpecHash": "xkQzDxA4dp7AtHjOkJFFt1DJPzBzvzHlUc62nv/QhtoYe0TR6p/tXTNRXo2Ti40HcoDUOREUVhFWvu+dmN3Ipw==",
   "success": true,
-  "projectFilePath": "/home/vinitrech/Projects/c-sharp-learning/BasicConsoleApp/BasicConsoleApp.csproj",
+  "projectFilePath": "C:\\Users\\vinit\\Projects\\c-sharp-learning\\BasicConsoleApp\\BasicConsoleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

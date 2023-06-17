@@ -83,3 +83,12 @@ namespace Generics
         }
     }
 }
+
+/*********************** IEnumerable x IQueryable ***********************/
+// IEnumerable will not apply filters in the query, it will load all records in memory an then apply filters
+// IQueryable will apply filters in the query itself, only returning the matching records from the database
+
+/*********************** IEnumerable x ICollection x IList ***********************/
+// IEnumerable provides basic features for iteration
+// ICollection inherits from IEnumerable and adds features to add/remove items
+// IList inherits from ICollection and adds features to add/remove items at specific indexes

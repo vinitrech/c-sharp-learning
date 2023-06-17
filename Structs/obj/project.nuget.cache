@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wMWVJScfG0WccQtz6uW+lKiHuyanziQ1KG2eici12Lyqp6nka/5bQBi/OSTDEKeVLvUsaeCtEYfmm0tw0auimQ==",
+  "dgSpecHash": "Bp8aNd+IKx2vJWMzZH6BzZqbJz590UJ1q0LYKRgHw9rMLbMEcD7I6Xw6CS46USQ508i+Itf8vyaaaCOPvgXjEw==",
   "success": true,
-  "projectFilePath": "/home/vinitrech/Projects/c-sharp-learning/Structs/Structs.csproj",
+  "projectFilePath": "C:\\Users\\vinit\\Projects\\c-sharp-learning\\Structs\\Structs.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

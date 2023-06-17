@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JS/MDQJmRbrWIdCCnUHCzoHbtKl8yvtoIQNaVZ2uSbKcol1xID95kA5WMPhpOb1RLEybPcg0M8BpKcyhbYP2YA==",
+  "dgSpecHash": "qEdDweD6SOlASWoPjX4RX2fUxTndTQElwZhsyKsZTBzT6y0xBzbQxzDsNwzwLw0CIkUUUSiE1T9mx+vUCNLpBQ==",
   "success": true,
-  "projectFilePath": "/home/vinitrech/Projects/c-sharp-learning/Directories/Directories.csproj",
+  "projectFilePath": "C:\\Users\\vinit\\Projects\\c-sharp-learning\\Directories\\Directories.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

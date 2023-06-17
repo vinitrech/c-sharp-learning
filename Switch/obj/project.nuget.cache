@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CItnaGCbNelTnlF544zz5WjJj2kZF1ZyoZJbSHg+qDJqQ/VE4rQQ46sRTIvlgy6xDRCJtkXWYIhiH1Wd+r9Bww==",
+  "dgSpecHash": "32R65JezNl4ybAcFN+w3RNs7jgKGDV2mfTLX8sAeNqqkZEXs5no1wlpEa6lOhRmtbyo6RjChmZEkq2EmKOVbQg==",
   "success": true,
-  "projectFilePath": "/home/vinitrech/Projects/c-sharp-learning/Switch/Switch.csproj",
+  "projectFilePath": "C:\\Users\\vinit\\Projects\\c-sharp-learning\\Switch\\Switch.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

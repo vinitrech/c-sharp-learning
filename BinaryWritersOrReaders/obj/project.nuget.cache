@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WWVCiVKJd4Ll1+Zlt1jv2XbEq9Lv0AEWQ4POz3vflca/bAQb8kreQFKO/VCdHDuIivOPM9fiKTT5qHq2ezEQ+g==",
+  "dgSpecHash": "RPsMl1SlY62on9IS1d/El6sxlUxBQyWPsnGSHuWnxO1l9Bqn8k13J+vLHTaDbBKDOtMi0/rYUpHYdEBv8umoTQ==",
   "success": true,
-  "projectFilePath": "/home/vinitrech/Projects/c-sharp-learning/BinaryWriterOrReader/BinaryWriterOrReader.csproj",
+  "projectFilePath": "C:\\Users\\vinit\\Projects\\c-sharp-learning\\BinaryWritersOrReaders\\BinaryWriterOrReader.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

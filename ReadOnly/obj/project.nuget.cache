@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hgclnQxQm9CqcuIKE+SgH+BZvCZ64uNc1BvbBXXljFOcyqUatj2hr/aTjwsV1OP9Y/DKWpWsSsuy68qWKM7dUA==",
+  "dgSpecHash": "8gbpXwJ7VfjtLaBQTLzCfIvGNRF4UiwMW61TLt72fAZroyz6YnlOh2Unql+Hq8Xy8atYUkl3siUNzAcUBUxsnQ==",
   "success": true,
-  "projectFilePath": "/home/vinitrech/Projects/c-sharp-learning/ReadOnly/ReadOnly.csproj",
+  "projectFilePath": "C:\\Users\\vinit\\Projects\\c-sharp-learning\\ReadOnly\\ReadOnly.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

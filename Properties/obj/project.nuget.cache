@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sFgfhaTpcUz2dmX7kOFoWWHyPlWXYgAzD/Uh9/a40u/mhIpfzJhsitAi/c/ZLxx7JQNlk5fDRzC7ksrbewnESQ==",
+  "dgSpecHash": "AXtCbJaRWons02CxG3zPNvPQ3t6MsvVPkjlBJQGZ6rvsxQrrkwhksPR0q7yDJgJLw0DfDXK0iLMqtzimCqKTbQ==",
   "success": true,
-  "projectFilePath": "/home/vinitrech/Projects/c-sharp-learning/Properties/Properties.csproj",
+  "projectFilePath": "C:\\Users\\vinit\\Projects\\c-sharp-learning\\Properties\\Properties.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

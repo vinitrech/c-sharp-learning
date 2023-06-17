@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "csZQ2dI60nwUYRASUopGyvC4FykYmYfknXBimjCjdKkH+xCpUqHk1roN96H5acpw/V9V1aeCQYmBHY8sJE9ZZQ==",
+  "dgSpecHash": "ZTnvbj0JsDItprUCen3IbhVUV9SA5Lp+PBFr7CnexMq+oMLEuXooVUeerJkTtVcCNojS9IP/ehptCw28fXA4Qg==",
   "success": true,
-  "projectFilePath": "/home/vinitrech/Projects/c-sharp-learning/GettersSetters/GettersSetters.csproj",
+  "projectFilePath": "C:\\Users\\vinit\\Projects\\c-sharp-learning\\GettersSetters\\GettersSetters.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

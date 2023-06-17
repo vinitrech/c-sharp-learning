@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g2Yirk7EvFdt+mrtMWR360dQnGvE1ewmrJsTqCYQ1PxgL4mTOlDbcZIg2BVM9izyTPegZab5k4wMihDHbr5IZQ==",
+  "dgSpecHash": "fQmsXYrk2ubmUgBq4KtBKpnYAtPfEAEQYRjeijrJAOIUvYfXDNoySz8qGlOPnriThWpnH1VQd1GueP3ES0MYGQ==",
   "success": true,
-  "projectFilePath": "/home/vinitrech/Projects/c-sharp-learning/Dictionaries/Dictionaries.csproj",
+  "projectFilePath": "C:\\Users\\vinit\\Projects\\c-sharp-learning\\Dictionaries\\Dictionaries.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
