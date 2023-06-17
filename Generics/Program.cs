@@ -92,3 +92,6 @@ namespace Generics
 // IEnumerable provides basic features for iteration
 // ICollection inherits from IEnumerable and adds features to add/remove items
 // IList inherits from ICollection and adds features to add/remove items at specific indexes
+
+/*********************** IEnumerable specifics ***********************/
+// Deferred execution
